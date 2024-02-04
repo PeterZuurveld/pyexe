@@ -14,7 +14,7 @@ init:
   # - unzip upx394w.zip
   # - cd %PROJDIR%
   # Print the build system version
-  - ver
+  # - ver
 
 build_script:
   # Upgrade the appveyor python version
