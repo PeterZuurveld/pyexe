@@ -1,3 +1,6 @@
+build_cloud: HOMESVR
+image: Windows
+
 environment:
   matrix:
     - PYTHON: "C:\\Python38-x64"
