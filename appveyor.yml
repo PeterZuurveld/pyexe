@@ -1,4 +1,4 @@
-build_cloud: HOMESVR
+build_cloud: Docker
 image: Windows
 
 environment:
